@@ -1,0 +1,4 @@
+Building synapse
+See doc/readme-qt.rst for instructions on building synapse QT.
+
+See doc/build-*.txt for instructions on building synapsed.
